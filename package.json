@@ -1,0 +1,26 @@
+{
+  "name": "mychromeextension",
+  "version": "1.0.0",
+  "description": "Chrome Extension",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-kang/myChromeExtension.git"
+  },
+  "author": "David Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d-kang/myChromeExtension/issues"
+  },
+  "homepage": "https://github.com/d-kang/myChromeExtension#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+}
